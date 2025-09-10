@@ -8,3 +8,7 @@ Foi mostrado tbm como alterar idioma e cores na plataforma.
 Criei uma maquina virtual dentro da Azure.
 Conectamos a mesma e instalamos um servidor a partir do codigo
 E instalamos um servidor  WEB IIS "Install-WindowsFeature -name Web-Server -IncludeManagementTools"
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Criamos um banco de dados SQL dentro do ambiente Azure
